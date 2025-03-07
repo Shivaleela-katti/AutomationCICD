@@ -12,4 +12,9 @@
         <class name="rahulshettyacademy.tests.ErrorValidations"/>     
   </classes>
   </test>
+   <test thread-count="1" name="Submit Order Test">
+    <classes>
+      <class name="rahulshettyacademy.tests.Submitorder"/>     
+    </classes>
+  </test>
 </suite> <!-- Suite -->
